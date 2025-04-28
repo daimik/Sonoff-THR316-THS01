@@ -1,0 +1,6 @@
+{
+  "files": ["dht.cpp", "dht.h", "dht_base.cpp"],
+  "name": "dht",
+  "description": "Custom DHT driver for ESP32 with SI7021 fix",
+  "dependencies": []
+}
