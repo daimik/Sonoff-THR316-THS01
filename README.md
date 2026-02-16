@@ -31,8 +31,8 @@ A ready-to-use **ESPHome YAML configuration** that transforms your Sonoff THR316
 
 | Component | Model |
 |---|---|
-| 🔌 **Smart Relay** | [Sonoff THR316](https://sonoff.tech/product/smart-wall-swtich/thr316/) |
-| 🌡️ **Sensor** | [Sonoff THS01](https://sonoff.tech/product/gateway-and-sensors/ths01/) (SI7021-based, temp + humidity) |
+| 🔌 **Smart Relay** | [Sonoff THR316](https://sonoff.tech/en-nl/products/sonoff-th-origin-smart-temperature-and-humidity-monitoring-switch?_pos=2&_psq=Sonoff+THR316&_ss=e&_v=1.0) |
+| 🌡️ **Sensor** | [Sonoff THS01](https://sonoff.tech/en-nl/products/sonoff-ths01-temp-and-humi-sensor?_pos=1&_psq=Sonoff+THS01&_ss=e&_v=1.0) (SI7021-based, temp + humidity) |
 
 ---
 
